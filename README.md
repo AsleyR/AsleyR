@@ -1,3 +1,5 @@
+<!-- Greeting Section -->
+
 # Hello there 👋
 
 <p>
@@ -5,6 +7,8 @@ I am just a guy learning to code. Currently a python and back-end web developer,
 
 </p>
 <br>
+
+<!-- Contact Me Section -->
 
 ## Reach me out 😄
 <p>
@@ -15,25 +19,27 @@ I am just a guy learning to code. Currently a python and back-end web developer,
 </p>
 <br>
 
+<!-- My Skills Section -->
+
 ## My Skills
-#### Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### Front-end Development
+### Front-end Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white)
 
-#### Back-end Development
+### Back-end Development
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJs](https://img.shields.io/badge/Nodejs-232C53?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-5099B1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-FFFFFF?style=for-the-badge&logo=mongodb)
 ![Github](https://img.shields.io/badge/GitHub-641668?style=for-the-badge&logo=github&logoColor=white)
 
-#### Software & Tools
+### Software & Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -42,8 +48,14 @@ I am just a guy learning to code. Currently a python and back-end web developer,
 
 <br>
 
+<!-- Github Stats section -->
 <div align="center">
 <h2>Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=AsleyR&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsleyR&theme=dark&layout=compact&hide_border=true">
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=AsleyR&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width=400>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsleyR&theme=dark&layout=compact&hide_border=true" width=400>
 </div>
+</div>
+
+
