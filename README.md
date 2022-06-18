@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hello there 👋
 
 <p>
