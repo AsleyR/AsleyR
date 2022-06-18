@@ -1,14 +1,3 @@
-<!-- ========= CSS CLASSES ========= -->
-
-<style>
-    .github-stats {
-        display: flex;
-        justify-content: center;
-    }
-</style>
-
-<!-- ========= CSS CLASSES ========= -->
-
 <!-- Greeting Section -->
 
 # Hello there 👋
@@ -60,13 +49,13 @@ I am just a guy learning to code. Currently a python and back-end web developer,
 <br>
 
 <!-- Github Stats section -->
-
+<div align="center">
 <h2>Github Stats</h2>
-<div class="github-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=AsleyR&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width=450>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=AsleyR&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width=400>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsleyR&theme=dark&layout=compact&hide_border=true" width=450>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsleyR&theme=dark&layout=compact&hide_border=true" width=400>
+</div>
 </div>
 
 
