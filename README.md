@@ -24,7 +24,7 @@ I am just a guy learning to code. Currently a python and back-end web developer.
 
 <!-- My Skills Section -->
 
-## My Skills
+## My Skills 📓
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,7 +53,7 @@ I am just a guy learning to code. Currently a python and back-end web developer.
 
 <!-- Github Stats section -->
 <div align="center">
-<h2>Github Stats</h2>
+<h2>Github Stats 📊</h2>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=AsleyR&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width=400>
 
