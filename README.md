@@ -18,7 +18,7 @@ I am just a guy learning to code. Currently a python and back-end web developer.
 
 </p>
 <p>
-    If I am not learning or working on some projects, I'm chilling with a cup of coffee at hand. Open to hang out or discuss business, feel free to reach me out either way 😄
+    If I am not learning something new, or working on some projects, I'm chilling with a cup of coffee by my side. Open to hang out or discuss business, feel free to reach me out either way 😄
 </p>
 <br>
 
