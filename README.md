@@ -24,13 +24,18 @@ Currently a python and back-end web developer, working towards becoming a full s
 <!-- My Skills Section -->
 
 <!-- Github Stats section -->
-<div align="center">
-<h2>Github Stats 📊</h2>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=AsleyR&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" width=350>
+<h2 align="center">Github Stats 📊</h2>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AsleyR&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" width=350>
+</div>
+
+<br>
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsleyR&theme=dark&layout=compact&hide_border=true" width=400>
 </div>
+
 </div>
 
 
