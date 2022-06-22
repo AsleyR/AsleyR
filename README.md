@@ -24,9 +24,9 @@ Python and back-end web developer, working towards becoming a full stack web dev
 <!-- My Skills Section -->
 
 <!-- Github Stats section -->
-<h2 align="center">Github Stats 📊</h2>
-
-<div style="display: flex; justify-content: center; aling-items: center;">
+<div align="center">
+<h2>Github Stats 📊</h2>
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=AsleyR&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" width=350 style="padding-right: 1em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsleyR&theme=dark&layout=compact&hide_border=true" width=400>
 </div>
