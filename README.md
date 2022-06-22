@@ -14,9 +14,9 @@
 <!-- Bio -->
 
 <p>
-I am just a guy learning to code. If I'm not learning something new, or working on some side projects, I'm chilling with a cup of coffee by my side. Open to hang out or discuss business, feel free to reach me out either way. 
+I am just a guy learning to code. If I'm not learning something new, or working on some side projects, I'm chilling with a cup of coffee by my side ☕️. Open to hang out or discuss business, feel free to reach me out either way. 
 
-Currently a python and back-end web developer, working towards becoming a full stack web developer 💪
+Python and back-end web developer, working towards becoming a full stack web developer 💪
 
 </p>
 <br>
@@ -26,13 +26,8 @@ Currently a python and back-end web developer, working towards becoming a full s
 <!-- Github Stats section -->
 <h2 align="center">Github Stats 📊</h2>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AsleyR&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" width=350>
-</div>
-
-<br>
-
-<div align="center">
+<div style="display: flex; justify-content: center; aling-items: center;">
+<img src="https://github-readme-stats.vercel.app/api?username=AsleyR&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" width=350 style="padding-right: 1em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsleyR&theme=dark&layout=compact&hide_border=true" width=400>
 </div>
 
