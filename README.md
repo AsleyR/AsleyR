@@ -13,11 +13,9 @@
 
 <!-- Bio -->
 
-<p style="font-size: 1.3em">
+<p>
 I am just a guy learning to code. If I'm not learning something new, or working on some side projects, I'm chilling with a cup of coffee by my side ☕️. Open to hang out or discuss business, feel free to reach me out either way. 
-</p>
-<br>
-<p style="font-size: 1.3em">
+
 Python and back-end web developer, working towards becoming a full stack web developer 💪
 </p>
 
