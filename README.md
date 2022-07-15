@@ -19,7 +19,7 @@
 
 <div>
 
-I'm just a guy that's learning to code. I'm fascinated by all- things regarding the world of tech, and love the idea of creating products that can help someone's life for the better. If I'm not learning some new tech, or working on a personal project, I'm chilling with a cup of coffee by my side.
+I'm just a guy learning to code. I'm fascinated by all- things regarding the world of tech, and love the idea of creating products that can help someone's life for the better. If I'm not learning some new tech, or working on a personal project, I'm chilling with a cup of coffee by my side.
 
 Always down to collaborate when I have the time. I'm hoping to become a better developer and one day disrupt the tech ecosystem with a cool project.
 
