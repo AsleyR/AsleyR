@@ -20,7 +20,7 @@
 <div>
 
 <p>
-I'm just a guy learning to code 🧑‍💻. I'm fascinated by all- things regarding the world of tech , and love the idea of creating products that can help someone's life for the better ✨. If I'm not learning some new tech 📚, or working on a personal project, I'm chilling with a cup of coffee by my side ☕️.
+I'm just a guy learning to code 🧑‍💻. I'm fascinated by all-things regarding the world of tech , and love the idea of creating products that can help someone's life for the better ✨. If I'm not learning some new tech 📚, or working on a personal project, I'm chilling with a cup of coffee by my side ☕️.
 
 </p>
 <p>
