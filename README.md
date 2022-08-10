@@ -4,7 +4,9 @@
 
 <h1> Hello there 👋 </h1>
 <p>
+<samp>
 Self-taught python and back-end developer, working towards becoming a full stack developer 💪.
+</samp>
 </p>
 
 <br>
