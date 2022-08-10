@@ -11,6 +11,10 @@ Self-taught python and back-end developer, working towards becoming a full stack
 
 <br>
 
+<hr>
+
+<h2>📫 My Socials</h2>
+
 <!-- Contact me section -->
 
 <p>
