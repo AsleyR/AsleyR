@@ -49,7 +49,7 @@ I work mostly with React and Express to make web apps, but for my other projects
 
 <hr>
 
-<h2>Tools of Trade</h2>
+<h2>⚙️ Tools of Trade</h2>
 <div align="center">
 <a href="https://www.python.org/" target="_blank">
 <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
