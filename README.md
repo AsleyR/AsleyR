@@ -73,11 +73,17 @@ I work mostly with React and Express to make web apps, but for my other projects
 <a href="https://nodejs.org/en/" target="_blank">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 </a>
+<a href="https://nodejs.org/en/" target="_blank">
+<img src="https://img.shields.io/badge/MySQL%20-%2343853D.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" />
+</a>
+<a href="https://nodejs.org/en/" target="_blank">
+<img src="https://img.shields.io/badge/MongoDB %20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
+</a>
 </div>
 
 <br>
 
-<p>Python, Javascript, Typescript, React, TailwindCSS, Sass, Express, NodeJs, Git, Github</p>
+<p>Python, Javascript, Typescript, React, TailwindCSS, Sass, Express, NodeJs, MySQL, MongoDB, Git, Github</p>
 
 </div>
 
