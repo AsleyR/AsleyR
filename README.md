@@ -79,11 +79,14 @@ I work mostly with React and Express to make web apps, but for my other projects
 <a href="https://nodejs.org/en/" target="_blank">
 <img src="https://img.shields.io/badge/MongoDB %20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
 </a>
+<a href="https://nodejs.org/en/" target="_blank">
+<img src="https://img.shields.io/badge/Figma %20-%2343853D.svg?&style=for-the-badge&logo=figma&logoColor=white&color=5B0BB5" />
+</a>
 </div>
 
 <br>
 
-<p>Python, Javascript, Typescript, React, TailwindCSS, Sass, Express, NodeJs, MySQL, MongoDB, Git, Github</p>
+<p>Python, Javascript, Typescript, React, TailwindCSS, Sass, Express, NodeJs, MySQL, MongoDB, Git, Github, Figma</p>
 
 </div>
 
