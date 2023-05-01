@@ -61,6 +61,10 @@ I work mostly with React and Express to make web apps, but for my other projects
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />
 </a>
+
+<a href="https://nodejs.org/en/" target="_blank">
+<img src="https://img.shields.io/badge/Next %20-%2343853D.svg?&style=for-the-badge&logo=next.js&logoColor=white&color=000000" />
+</a>
 <a href="https://sass-lang.com/" target="_blank">
 <img src="https://img.shields.io/badge/sass%20-%231572B6.svg?&style=for-the-badge&logo=sass&logoColor=white&color=CC6699" />
 </a>
@@ -81,9 +85,6 @@ I work mostly with React and Express to make web apps, but for my other projects
 </a>
 <a href="https://nodejs.org/en/" target="_blank">
 <img src="https://img.shields.io/badge/Figma %20-%2343853D.svg?&style=for-the-badge&logo=figma&logoColor=white&color=5B0BB5" />
-</a>
-<a href="https://nodejs.org/en/" target="_blank">
-<img src="https://img.shields.io/badge/Next %20-%2343853D.svg?&style=for-the-badge&logo=next&logoColor=white&color=000000" />
 </a>
 </div>
 
