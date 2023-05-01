@@ -83,13 +83,13 @@ I work mostly with React and Express to make web apps, but for my other projects
 <img src="https://img.shields.io/badge/Figma %20-%2343853D.svg?&style=for-the-badge&logo=figma&logoColor=white&color=5B0BB5" />
 </a>
 <a href="https://nodejs.org/en/" target="_blank">
-<img src="https://img.shields.io/badge/Next %20-%2343853D.svg?&style=for-the-badge&logo=figma&logoColor=white&color=000000" />
+<img src="https://img.shields.io/badge/Next %20-%2343853D.svg?&style=for-the-badge&logo=next&logoColor=white&color=000000" />
 </a>
 </div>
 
 <br>
 
-<p>Python, Javascript, Typescript, React, TailwindCSS, Sass, Express, NodeJs, MySQL, MongoDB, Git, Github, Figma</p>
+<p>Python, Javascript, Typescript, React, Next, Prisma, TailwindCSS, Sass, Express, NodeJs, MySQL, MongoDB, Git, Github, Figma</p>
 
 </div>
 
