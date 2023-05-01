@@ -35,12 +35,12 @@ Self-taught python and full stack developer who enjoys working on tech 🤖.
 <h2>💻 About Me</h2>
 
 <p>
-I'm just a guy learning to code 🧑‍💻. I'm fascinated by all-things regarding the world of tech, and I love the idea of creating products that can help someone's life for the better ✨. If I'm not learning some new tech 📚, or working on a personal project, I'm chilling with a cup of coffee by my side ☕️.
+I'm just a guy that loves to code 🧑‍💻. I'm fascinated by all-things regarding the world of tech, and I love the idea of creating products that can help someone's life for the better ✨. If I'm not learning some new tech 📚, or working on a personal project, I'm chilling with a cup of coffee by my side ☕️.
 
 </p>
 
 <p>
-I work mostly with React and Express to make web apps, but for my other projects, I usually just work with Python and with the PySimpleGui library if the need for a Gui arises 🤷‍♂️.
+I work mostly with React, Next and Express to make web apps, but for my other projects, I usually just work with Python and with the PySimpleGui library if the need for a Gui arises 🤷‍♂️.
 </p>
 
 <p>
