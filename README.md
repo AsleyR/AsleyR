@@ -83,6 +83,9 @@ I work mostly with React, Next and Express to make web apps, but for my other pr
 <a href="https://nodejs.org/en/" target="_blank">
 <img src="https://img.shields.io/badge/MongoDB %20-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
 </a>
+<a href="https://www.prisma.io/" target="_blank">
+<img src="https://img.shields.io/badge/Prisma %20-%2343853D.svg?&style=for-the-badge&logo=prisma&logoColor=white&color=2D3748" />
+</a>
 <a href="https://nodejs.org/en/" target="_blank">
 <img src="https://img.shields.io/badge/Figma %20-%2343853D.svg?&style=for-the-badge&logo=figma&logoColor=white&color=5B0BB5" />
 </a>
